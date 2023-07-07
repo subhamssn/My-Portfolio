@@ -49,15 +49,21 @@ function Intro() {
         <FloatingDiv image={thumbup} text1="Best Design" text2="Award"/>
        </div>
 
+       <div className='blur' style={{
+        zIndex: '-9'
+       }}></div>
+
        
-       <div className='blur' 
+       <div className='blue-blur' 
        style={{
         background: '#c1F5FF',
         top: '19rem',
         width: '21rem',
         height: '11rem',
         left: '-15rem',
-        filter: 'blur(65px)'
+        filter: 'blur(65px)',
+        zIndex: '-9'
+        
 
         
        }} ></div>

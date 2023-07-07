@@ -66,6 +66,7 @@
 .i-right{
     flex: 1;
     position: relative;
+    left: 7rem;
     overflow: visible;
 }
 
@@ -102,17 +103,8 @@
     
 }
 
-.blur{
-    position: absolute;
-    width: 22rem;
-    height: 14rem;
-    border-radius: 50%;
-    background: #edd0ff;
-    z-index: -9;
-    
-    top: 2%;
-    left: 56%;
-    filter: blur(212px);
 
-}
+
+
+
 
