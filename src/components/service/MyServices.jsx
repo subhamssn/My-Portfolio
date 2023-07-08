@@ -36,7 +36,7 @@ function services() {
             sText="Client Handling, Product Prototyping, Analysis" />
         </div>
 
-        <div className='blue-blur'></div>
+        
       
     </div>
   )

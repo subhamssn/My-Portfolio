@@ -59,3 +59,17 @@
     top: 20%;
 }
 
+.services-blur{
+    
+        position: absolute;
+        background: #c1F5FF;
+        height: 10rem;
+        width: 15rem;
+        border-radius: 50%;
+        bottom: -40rem;
+        filter: blur(80px);
+        left: 10rem;
+        
+     
+}
+
