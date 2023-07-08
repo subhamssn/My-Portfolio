@@ -5,6 +5,7 @@ import MyServices from "./components/service/MyServices"
 import Experience from "./components/experience/Experience";
 import Work from "./components/Work/Work";
 import Portfolio from "./components/portfolio/Portfolio";
+import Testimonial from "./components/testimonial/Testimonial";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Experience />
       <Work />
       <MyServices />
+      <Testimonial />
       
       
       
