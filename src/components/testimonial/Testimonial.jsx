@@ -26,7 +26,7 @@ function Testimonial() {
         modules={[Pagination]}
         spaceBetween={50}
         slidesPerView={3}
-        pagination={{ clickable: true }}
+        
         className={'testimonial-slider'}
         onSlideChange={() => console.log('slide change')}
       onSwiper={(swiper) => console.log(swiper)}
