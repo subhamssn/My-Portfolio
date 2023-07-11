@@ -5,6 +5,7 @@ function Footer() {
   return (
     <div className='footer'>
         <img src={WaveImg} alt="" />
+        <div className='f-content'></div>
     </div>
   )
 }
